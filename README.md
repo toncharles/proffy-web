@@ -48,7 +48,7 @@ $ yarn install
 $ yarn start
 ```
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/toncharles/proffy-web/blob/master/LICENSE) for more information.
 
 ---
 
